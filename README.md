@@ -10,10 +10,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Spring | Spring Boot | Microservice | Rest | Hibernate | JPA
-- 🌐 &nbsp; JavaScript | Node.js | ReactJS | Redux
+- 💻 &nbsp;Java | Spring | Spring Boot | Microservice | Rest | Hibernate | JPA
+- 🌐 &nbsp;JavaScript | Node.js | ReactJS | Redux
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Docker | AWS | Kubernates | Ansible | Git | Maven
+- 🔧 &nbsp;Docker | AWS | Kubernetes | Ansible | Git | Maven
 
 
 <br/>
