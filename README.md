@@ -3,18 +3,18 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🎓 &nbsp; Studied Computer Science  at JNTUH College of Engineering Hyderabad (Autonomous)..
+- 💼 &nbsp; Working as an Associate Consultant, Engineering at GlobalLogic Technologies Private Limite.
+- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Devops.
+- ✍️ &nbsp; Pursuing UX Design and Blog Writing as hobbies/side hustles.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Spring | Spring Boot | Microservice | Rest
-- 🌐 &nbsp; JavaScript | CSS | JavaScript | Bootstrap | Node.js | ReactJS
+- 💻 &nbsp; Java | Spring | Spring Boot | Microservice | Rest | Hibernate | JPA
+- 🌐 &nbsp; JavaScript | Node.js | ReactJS | Redux
 - 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🔧 &nbsp; Docker | AWS | Kubernates | Ansible | Git | Maven
+
 
 <br/>
 
