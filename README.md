@@ -18,7 +18,8 @@
 
 <br/>
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurupadamg&show_icons=true)](https://github.com/AVS1508)
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gurupadamg&show_icons=true)](https://github.com/gurupadamg)
+https://github-readme-stats.vercel.app/api?username=gurupadamg&show_icons=true
 
 <h3> 🤝🏻 Connect with Me </h3>
 
