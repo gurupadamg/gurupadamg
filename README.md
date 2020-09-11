@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; 5+ years of IT experience as a JAVA/J2EE Developer that includes developing Enterprise applications with distributed components.
 - 🎓 &nbsp; Studied Computer Science  at JNTUH College of Engineering Hyderabad (Autonomous)..
-- 💼 &nbsp; Working as an Associate Consultant, Engineering at GlobalLogic Technologies Private Limite.
+- 💼 &nbsp; Working as an Associate Consultant, Engineering at GlobalLogic Technologies Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Devops.
 - ✍️ &nbsp; Pursuing UX Design and Blog Writing as hobbies/side hustles.
 
